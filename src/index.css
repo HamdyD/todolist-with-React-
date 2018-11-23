@@ -1,0 +1,42 @@
+body {
+    padding: 50px;
+    background-color: #66CCFF;
+    font-family: sans-serif;
+ }
+
+h1 {
+  color: #004E89;
+  font-family: Calibri, sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+    color: #585858;
+    font-family: Calibri, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    color: #585858;
+    font-family: Calibri, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+
+#container {
+    display: flex;
+    justify-content: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em;
+}
